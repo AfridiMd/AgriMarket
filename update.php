@@ -18,7 +18,7 @@ $cropprice=$_POST['cropprice'];
 $mobile=$_POST['mobile'];
 $address1=$_POST['address1'];
 $address2=$_POST['address2'];
-
+// echo $_POST['address1'];
  //echo $cropname;
   // form validation: ensure that the form is correctly filled ...
   // by adding (array_push()) corresponding error unto $errors array
